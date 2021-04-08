@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on www.flashpayers.com
 - 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate on more challenges
-- 🤔 I’m looking for help with improve myself
+- 🤔 I’m looking for to with improve myself
 - 💬 Ask me about web development and machine learning
 - 📫 How to reach me: https://twitter.com/foplacide 
 - 😄 Pronouns: his/he
