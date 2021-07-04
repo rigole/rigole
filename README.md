@@ -14,5 +14,5 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: so many things to say
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigole&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole)
 -<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plass)](https://github.com/anuraghazra/github-readme-stats)-->
