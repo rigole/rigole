@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigole&show_icons=true&theme=onedark&count_private=true)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole&theme=onedark)
  
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plass)](https://github.com/anuraghazra/github-readme-stats)-->
 <h1>GitHub Profile Stats</h1>
