@@ -13,11 +13,12 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: https://twitter.com/foplacide 
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: so many things to say
+- ![](https://komarev.com/ghpvc/?username=rigole)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigole&show_icons=true&theme=onedark&count_private=true)
 
-![](https://komarev.com/ghpvc/?username=rigole)
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole&theme=onedark&count_private=true)
  
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plass)](https://github.com/anuraghazra/github-readme-stats)-->
