@@ -25,4 +25,10 @@ Here are some ideas to get you started:-->
 <h1>GitHub Profile Stats</h1>
     https://profile-summary-for-github.com/user/rigole
 <!--START_SECTION:waka-->
+
+```text
+Python          10 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   33.62 %
+Other           10 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   32.51 %
+```
+
 <!--END_SECTION:waka-->
