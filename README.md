@@ -24,11 +24,4 @@ Here are some ideas to get you started:-->
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plass)](https://github.com/anuraghazra/github-readme-stats)-->
 <h1>GitHub Profile Stats</h1>
     https://profile-summary-for-github.com/user/rigole
-<!--START_SECTION:waka-->
 
-```text
-Python          10 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   33.62 %
-Other           10 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   32.51 %
-```
-
-<!--END_SECTION:waka-->
