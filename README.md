@@ -21,7 +21,7 @@ Here are some ideas to get you started:-->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rigole)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rigole&theme=onedark&count_private=true)
  
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=plass)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <h1>GitHub Profile Stats</h1>
     https://profile-summary-for-github.com/user/rigole
 
