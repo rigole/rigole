@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on more challenges
 - 🤔 I’m looking for help to improve myself
 - 💬 Ask me about web development and machine learning
-- 📫 How to reach me: https://twitter.com/foplacide 
+- 📫 How to reach me: foplacide@gmail.com
 - 😄 Pronouns: his/he
 - ⚡ Fun fact: so many things to say
 - ![](https://komarev.com/ghpvc/?username=rigole)
