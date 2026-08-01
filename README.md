@@ -6,7 +6,7 @@ https://cerem.ca/ and
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on  https://science-fiction-5xbz46sa2-rigole.vercel.app/
+- 🔭 I’m currently working on [ taskboard](https://github.com/rigole/taskboard)
 - 🌱 I’m currently learning Many Things to improve myself
 - 👯 I’m looking to collaborate on more challenges
 - 🤔 I’m looking for help to improve myself
